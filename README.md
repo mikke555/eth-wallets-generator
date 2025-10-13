@@ -3,6 +3,7 @@ Quickly generate an arbitrary number of Ethereum accounts using [eth_account](ht
 
 Full docs: https://eth-account.readthedocs.io/en/latest/eth_account.html#eth_account.account.Account
 
+
 ## Quickstart
 1. create and activate virtual environment:
 ```
