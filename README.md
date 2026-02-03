@@ -1,7 +1,6 @@
 # eth_wallets_generator
-Quickly generate an arbitrary number of Ethereum accounts using [eth_account](https://github.com/ethereum/eth-account/) library.
+Quickly generate an arbitrary number of Ethereum accounts using [eth-account](https://github.com/ethereum/eth-account/) library.
 
-Full docs: https://eth-account.readthedocs.io/en/latest/eth_account.html#eth_account.account.Account
 
 ## Quickstart
 1. create and activate virtual environment:
