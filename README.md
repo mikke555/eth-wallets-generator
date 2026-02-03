@@ -1,4 +1,4 @@
-# eth_wallets_generator
+# Ethereum Wallet Generator
 Quickly generate an arbitrary number of Ethereum accounts using [eth-account](https://github.com/ethereum/eth-account/) library.
 
 
