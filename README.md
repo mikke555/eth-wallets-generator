@@ -2,6 +2,7 @@
 Quickly generate an arbitrary number of Ethereum accounts using [eth-account](https://github.com/ethereum/eth-account/) library.
 
 
+
 ## Quickstart
 1. create and activate virtual environment:
 ```
